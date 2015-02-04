@@ -1,5 +1,5 @@
 {
-  "name": "bholben-string-library",
+  "name": "bholben-string-prototype-library",
   "root": "./",
   "clean_urls": true,
   "error_page": "error.html"
